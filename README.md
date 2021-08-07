@@ -1,4 +1,4 @@
-## GitcoinDao Proposal
+## GitcoinDao Proposal for climate change and new ideas on homepage updates
 
 <b>This is official thread for the updates on my proposal of forming a DAO community to fight Climate change</b>
 
