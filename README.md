@@ -2,4 +2,4 @@
 
 <b>This is official thread for the updates on proposal of forming a DAO community to fight Climate change</b>
 
-[Click here](https://gov.gitcoin.co/t/request-for-proposal-gitcoindao-for-climate-change/8166) to read more about this proposal.
+<b>[Click here](https://gov.gitcoin.co/t/request-for-proposal-gitcoindao-for-climate-change/8166)</b> to read more about this proposal.
