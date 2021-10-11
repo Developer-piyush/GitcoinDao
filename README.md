@@ -1,5 +1,5 @@
 ## Decentralized qudraticlands.com:   
-[QUADRATICLANDS.COM](https://github.com/Developer-piyush/Gitquad) <br>
+[CODE](https://github.com/Developer-piyush/Gitquad) <br>
 [Decentralized Version](http://decentralized.quadraticlands.com/) <br>
 [Discussion](https://gov.gitcoin.co/t/request-for-proposal-gitcoindao-com-website/8114/12) <br>
 
