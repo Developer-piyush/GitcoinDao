@@ -1,5 +1,7 @@
 ## Decentralized qudraticlands.com:   
 [QUADRATICLANDS.COM](https://github.com/Developer-piyush/Gitquad)
+[Decentralized Version](http://decentralized.quadraticlands.com/)
+[Discussion](https://gov.gitcoin.co/t/request-for-proposal-gitcoindao-com-website/8114/12)
 
 ## GitcoinDao Proposal for climate change and new ideas on homepage updates (More proposals will be updated here)
 
